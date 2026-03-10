@@ -16,7 +16,7 @@
 
 После выбора файла:
 
-![image](https://raw.githubusercontent.com/DenisNezhnyansky-QA/tg_generation_file/refs/heads/main/generation.png)
+![image](https://raw.githubusercontent.com/Atamanenko-qa/Create_file_bot/refs/heads/main/Generation_bot.png)
 
 ## 💻 Технологии
 
