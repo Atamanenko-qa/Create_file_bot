@@ -12,7 +12,7 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/DenisNezhnyansky-QA/tg_generation_file/refs/heads/main/start.png)
+![image](https://raw.githubusercontent.com/Atamanenko-qa/Create_file_bot/refs/heads/main/Start_bot.png)
 
 После выбора файла:
 
@@ -30,15 +30,25 @@
 2. Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
 
 3. Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
 
 ``` markdown
-python3 -m venv venv
+python3 -m venv env
 ```
+Где env — имя создаваемого виртуального окружения. Рекомендуется выбирать имя, которое отражает суть проекта.
+
+Для MacOS:
 
 ``` markdown
 source venv/bin/activate
 ```
+
+Для Windows:
+
+``` markdown
+myenv\\Scripts\\activate
+```
+
+
 4. Устанавливаем библиотеки
 
 ``` markdown
@@ -52,4 +62,4 @@ python3 main.py
 
 ## Автор
 
-Денис Нежнянский ([@nezhnyansky](https://t.me/nezhnyansky))
+Атаманенко Дмитрий ([@dmitry_atamanenko](https://t.me/dmitry_atamanenko))
